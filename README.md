@@ -1,7 +1,7 @@
 README.md
 
 # 🤖 AI Agent Wallets
-
+## (The main content is there in pqmain and in frontend)
 A full-stack blockchain MVP that gives AI agents real financial autonomy. Each agent is a smart contract wallet that can hold ETH, make payments, and interact with other agents or services—all on-chain.
 
 ## 🚀 Features
